@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Saisree
 
-<!--
-**saisreedendi/saisreedendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer in Dallas, TX. I build Java services, React interfaces, and the cloud pipelines behind them, and I've worked in hardware validation, healthcare, and banking.
 
-Here are some ideas to get you started:
+**Portfolio:** https://saisreedendi.github.io  
+**LinkedIn:** https://www.linkedin.com/in/dendisaisree  
+**Medium:** https://saisreedendi.medium.com  
+**Email:** saisreedendi@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **Languages:** Java, SQL, JavaScript, TypeScript, Bash
+- **Frontend:** React, HTML5, CSS3
+- **Backend:** Node.js, REST and GraphQL APIs, microservices, FHIR and HL7
+- **Data:** Apache Spark, Kafka, MongoDB, BigQuery
+- **Cloud and delivery:** AWS, GCP, Jenkins, GitHub Actions, Git
+
+### Projects
+
+- [AI Search Agent](https://github.com/saisreedendi/ai-search-agent): compares how different search algorithms perform on the same problems.
+- [Reflex and Model-Based Agent Simulation](https://github.com/saisreedendi/agent-simulation): simulates a reflex agent and a model-based agent so their behavior can be compared.
+
+### Writing
+
+- [What I Learned Moving Scheduled Data Jobs to the Cloud](https://saisreedendi.medium.com/what-i-learned-moving-scheduled-data-jobs-to-the-cloud-e8aee314319d): six practical lessons for developers who are new to cloud migrations.
+
+### Education
+
+M.S. in Data Engineering, Southern Methodist University. B.E. in Electrical and Electronics Engineering, Stanley College of Engineering and Technology for Women.
