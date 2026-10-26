@@ -15,11 +15,6 @@ I'm a Software Developer in Dallas, TX. I build Java services, React interfaces,
 - **Data:** Apache Spark, Kafka, MongoDB, BigQuery
 - **Cloud and delivery:** AWS, GCP, Jenkins, GitHub Actions, Git
 
-### Projects
-
-- [AI Search Agent](https://github.com/saisreedendi/ai-search-agent): compares how different search algorithms perform on the same problems.
-- [Reflex and Model-Based Agent Simulation](https://github.com/saisreedendi/agent-simulation): simulates a reflex agent and a model-based agent so their behavior can be compared.
-
 ### Writing
 
 - [What I Learned Moving Scheduled Data Jobs to the Cloud](https://saisreedendi.medium.com/what-i-learned-moving-scheduled-data-jobs-to-the-cloud-e8aee314319d): six practical lessons for developers who are new to cloud migrations.
